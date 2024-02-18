@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "466632686007",
+    "project_id": "khabari-1f81e",
+    "storage_bucket": "khabari-1f81e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466632686007:android:32a93d7fb38cdb85645032",
+        "android_client_info": {
+          "package_name": "best.news_app.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466632686007-b9j173s24kku246dv9iv5cau8mlnchlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "best.news_app.news_app",
+            "certificate_hash": "becb81e3c170b2945403d79d3da4dc0ddd553998"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZM3sg4qtQvVAzJckbTF5uqGAXQ3FvZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466632686007-0bnrtbckvjohb29k7dhvqj8r52p4rh0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466632686007:android:27dc5b526c24771a645032",
+        "android_client_info": {
+          "package_name": "com.khabari_ghorchan.news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZM3sg4qtQvVAzJckbTF5uqGAXQ3FvZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466632686007-0bnrtbckvjohb29k7dhvqj8r52p4rh0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
