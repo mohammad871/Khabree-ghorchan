@@ -1,0 +1,151 @@
+{
+    
+    "home": "مخ پاڼه",
+    "videos": "ویدیو",
+    "categories" : "کتګوري",
+    "profile": "پروفایل",
+    
+
+    "welcome to" : "ښه راغلاست",
+    "sign in to continue": "دننه شه او ادامه ورکړه",
+    "skip": "ترک کړه",
+    "done": "تره سره شو",
+
+    "intro-title1" : "لمړي متن پیژندنه",
+    "intro-title2" : "دوهم متن پیژندنه",
+    "intro-title3" : "دریم متن پیژندنه",
+    "intro-description1" : "دلمړي توضیخات پيژندنه ...",
+    "intro-description2" : "ددوهم توضیخات پيژندنه ...",
+    "intro-description3" : "ددریم توضیخات پيژندنه ...",
+    "get started" : "پیل کول",
+    "don't have social accounts?" : "دټولنیزو رسنیو اکونت نه درلودل",
+    "continue with email >>" : "دایمل سره ادامه ورکړی >>",
+
+    "sign up": "نوم لیکنه",
+    "sign in": "دننه کیدل",
+    "follow the simple steps": "ساده مرحلې تعقیب کړی",
+    "name": "نوم",
+    "already have an account?": "له مخکې مو حساب در لوده ؟",
+    "forgot password?": "خپل پسورد درنه هیر شوی ؟",
+    "reset your password": "خپل پسورد بیا تنظیم کړی",
+    "submit": "لیږل",
+    "sign in successful!" : "په بریالي توب سره دننه شی!",
+    "sign up successful!": "نوم لیکنه په بریالي توب سره شوه!",
+    "don't have an account?" : "آیا یو اکونت نه لری؟",
+
+
+
+    "search news" : "خبرونو پلټل",
+    "popular news" : "مشهور خبرونه ",
+    "recent news" : "وروستی خبرونه",
+    "explore": "سپړنه",
+    "featured": "ځانکړنې",
+    "view all" : "ټول لیدل",
+
+    "video articles" : "دویدیو متن",
+    "most recent": "ډیر وروستی",
+    "most popular": "ډیر مشهور",
+    "no categories found": "کومه کتګوري پیدا نشوه",
+
+    
+
+
+
+    "people like this" : "خلکو خوښه کړې ",
+    "you might also like" : "تاسو یې هم کولی شی خوښه یی کړی",
+    "no articles found" : "کوم متن پیدا نشو ",
+
+
+    
+    "no internet" : "ستاسو په نت کې ستونزه ده!",
+    "no comments found" : "کوم نظر پیدا نشو",
+    "be the first to comment" : "لمړی نفر شی چې نظر ورکړی",
+
+
+    "recent searchs" : "وروستی پلټل",
+    "search-description" :  "توضحیات وپلټی!",
+    "we have found" : "څه مو وموندل",
+    "try again" : "بیا کوښښ وکړی!",
+
+
+
+
+    "bookmarks" : "په نښه کول",
+    "sign in first" : "لمړی دننه شی ",
+    "sign in to save your favourite articles here" : "دننه شی او خپل د خوښې متن محفوظ کړی",
+    "save your favourite articles here" : "دلته مو خپل متن محفوظ کړی",
+
+
+
+
+    "check your internet connection!" : "خپل انترنت مو چيک کړی!",
+    "something is wrong. please try again." : "کوم څه اشتباه دي .بیا کوښښ وکړی",
+    "error fb login" : "دفیسبوک له لارې دننه کیدل مو ستونزه لري",
+
+
+    
+    "cancel" : "ختمول",
+    "no sign in title" : " د دننه کیدلو موضوع نشه",
+    "no sign in subtitle" : "د دننه کیدلو فرعی موضوع نشته ",
+
+    
+    
+    "comments" : "نظرونه",
+    "write a comment" : "نظر لیکل",
+
+
+    
+    "no content" : "محتویات نشته",
+    "flag this comment" : "دا نظر پرچم کړی",
+    "unflag this comment" : "دا نظر مه پرچم کویی",
+    "report" : "ریپورت",
+    "delete" : "لمنځه وړل",
+    "report-info" : "د ریپورت معلومات",
+    "report-info1" : "دلمړي ریپورت معلومات",
+    "report-guest" : "دمیمله ریپورت!",
+    "report-guest1" : "دلمړي میلمه ریپورت",
+    "comment flagged" : "کمنت فلږ شو !",
+
+
+    "notifications" : "خبرتیا!",
+    "notification details" : "دخبریتا جزیات",
+    "custom notifications": "اوسنی خبرتیا",
+    "news notifications": "دخبرونو خبرتیا",
+    "no notification": "خبرتیا نشته",
+
+
+    
+    "general settings" : "عمومی تنظیمات",
+    "dark mode" : "دشپې حالت",
+    "login" : "سیستم ته دننه کیدل",
+    "get notifications" : "خبریتا",
+    "contact us" : "اړيکه ",
+    "rate this app" : "د app ته رایه ورکړئ",
+    "licence" : "جواز",
+    "privacy policy" : "سياسة خاصة",
+    "about us" : "زمونږ په اړه",
+    "logout" : "وتل",
+    "edit profile" : "پروفایل تغیر ول",
+    "update profile" : "پروفایل تازه کول",
+    "updated successfully" : "په بریالي توب سره تازه شو",
+    "enter new name" : "نوی نوم ولیکی",
+
+    "logout title" : "عنوان ترک کول؟",
+    "yes" : "هو",
+    "no" : "نه",
+
+    "language" : "ژبه",
+    "select language" : "ژبه انتخاب کړی",
+
+    "buy now" : "اوس یی واخلی ",
+    "buy now subtitle" : "د اخیستلو نوی تایتل",
+
+    "facebook page" : "فیسبوک صفحه",
+
+    "views": "کتل ",
+    "Khabari": "خبری",
+    "Ghorchan": "غورچان"
+
+
+
+}
